@@ -1,0 +1,81 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "title": "Peace Activists Celebrate as Barclays Sells Shares of Israeli Weapons Maker Elbit Systems",
+      "category": "Middle East",
+      "description": "Pro-Palestinian activists have called off protests after Barclays revealed it had sold its shares in Elbit Systems, Israel’s largest weapons manufacturer.",
+      "content": "Protests were called off after Barclays announced that it had sold all its shares in Elbit Systems, a company that manufactures military technology used in the Israeli-Palestinian conflict.",
+      "image": "https://ichef.bbci.co.uk/news/480/cpsprodpb/85ed/live/95943610-a7f1-11ef-adc4-ed3c57175052.jpg.webp",
+      "author": "Sarah Johnson",
+      "date": "2024-11-19",
+      "featured": false
+    },
+    {
+      "id": "2",
+      "title": "Trump Taps FCC’s Brendan Carr to Chair Communications Agency",
+      "category": "Technology",
+      "description": "Former President Trump has chosen Brendan Carr, a critic of Big Tech, to chair the Federal Communications Commission (FCC), signaling changes to Biden-era policies, including net neutrality.",
+      "content": "Trump’s nomination of Brendan Carr to lead the FCC marks a shift towards policies favoring deregulation and opposing tech monopolies.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/bb57/live/adf60440-a7e7-11ef-a4fe-a3e9a6c5d640.jpg.webp",
+      "author": "Michael Chang",
+      "date": "2024-11-19",
+      "featured": false
+    },
+    {
+      "id": "3",
+      "title": "Deadly Typhoon Man-yi Slams Philippines",
+      "category": "Asia",
+      "description": "Super Typhoon Man-yi caused severe flooding and landslides in the Philippines, marking the sixth major storm to hit the country in a month.",
+      "content": "The Philippines is recovering from Typhoon Man-yi, which has killed dozens and displaced thousands, exacerbating the country’s ongoing battle with climate change.",
+      "image": "https://ichef.bbci.co.uk/news/480/cpsprodpb/8250/live/6b84c8d0-a7dd-11ef-a4fe-a3e9a6c5d640.jpg.webp",
+      "author": "Emily Tan",
+      "date": "2024-11-19",
+      "featured": true
+    },
+    {
+      "id": "4",
+      "title": "Spain Declares Mourning After Flash Flooding Death Toll Soars to 158",
+      "category": "Europe",
+      "description": "Flash floods in Spain have left 158 dead, with the heaviest destruction in Valencia. Authorities warn that more storms are expected.",
+      "content": "The country mourns the devastating floods that have submerged entire towns and claimed the lives of hundreds, with more rain expected in the coming days.",
+      "image": "https://ichef.bbci.co.uk/images/ic/1920x1080/p0k59h0l.jpg.webp",
+      "author": "Carlos Gomez",
+      "date": "2024-11-19",
+      "featured": true
+    },
+    {
+      "id": "5",
+      "title": "Kamala Harris Defends Women’s Rights Amidst Trump’s Attacks",
+      "category": "Politics",
+      "description": "Vice President Kamala Harris criticized Donald Trump for his stance on women’s rights, particularly regarding reproductive choices.",
+      "content": "Kamala Harris has condemned Trump’s rhetoric and policies surrounding women’s reproductive rights, calling for better protection of women’s autonomy.",
+      "image": "https://ichef.bbci.co.uk/news/640/cpsprodpb/67d8/live/a19adae0-a774-11ef-bdf5-b7cb2fa86e10.jpg.webp",
+      "author": "Lily Williams",
+      "date": "2024-11-19",
+      "featured": false
+    },
+    {
+      "id": "6",
+      "title": "G20 Protesters Demand More Action on Climate Crisis in Brazil",
+      "category": "Environment",
+      "description": "As the G20 summit convenes in Brazil, activists protest against global leaders' failure to address climate change and hunger.",
+      "content": "Protests erupted in Brazil as G20 leaders faced criticism for not doing enough to combat climate change, despite worsening conditions worldwide.",
+      "image": "https://ichef.bbci.co.uk/news/480/cpsprodpb/b7c2/live/5926ebc0-a7ef-11ef-bdf5-b7cb2fa86e10.jpg.webp",
+      "author": "Andre Souza",
+      "date": "2024-11-19",
+      "featured": false
+    },
+    {
+      "id": "7",
+      "title": "Guatemala Court Reverses House Arrest Order for Journalist José Rubén Zamora",
+      "category": "Latin America",
+      "description": "A Guatemalan court has sent journalist José Rubén Zamora back to prison after overturning his house arrest decision.",
+      "content": "José Rubén Zamora, a journalist known for his investigative reporting, faces legal battles as a court reinstates his prison sentence.",
+      "image": "https://ichef.bbci.co.uk/images/ic/1024xn/p0k1hjhj.jpg.webp",
+      "author": "Ana Mejia",
+      "date": "2024-11-19",
+      "featured": false
+    }
+  ]
+}
